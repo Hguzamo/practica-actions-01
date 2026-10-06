@@ -4,7 +4,7 @@
   "description": "modificacion del README",
   "main": "index.js",
   "scripts": {
-    "test": "node -e \"console.log('Tests OK'); process.exit(0)\""
+    "test": "node test-que-no-existe.js"
   },
   "repository": {
     "type": "git",
